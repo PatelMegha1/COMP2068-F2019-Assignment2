@@ -10,12 +10,46 @@ body {
 a {
   color: #00B7FF;
 }
+p{
+  color: white;
+  text-align: center;
+  font-size: 28px;
+}
 h1 {
   text-align: center;
   font-size: 150px;
   color: white;
   padding-top: 35px;
 }
+h2 {
+  text-align: center;
+  font-size: 130px;
+  color: white;
+  padding-top: 35px;
+}
 .title{
   margin-top: 100px;
+}
+/* .form{
+  color: black;
+  font-size: 2em;
+  background-color: #f2f2f2;
+  padding: 2vw;
+} */
+.row{
+  text-align: center;
+  margin: 2%;
+  color: white;
+  font-size: 2vw;
+}
+button{
+  margin-left: 50%;
+}
+label{
+  color: white;
+  font-size: 1vw;
+}
+.col{
+  color: white;
+  font-size: 2vw;
 }
